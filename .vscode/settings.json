@@ -1,0 +1,8 @@
+{
+    "editor.dropIntoEditor.preferences": [],
+    "editor.editContext": false,
+    "editor.emptySelectionClipboard": true,
+    "editor.gotoLocation.alternativeDeclarationCommand": "editor.action.goToTypeDefinition",
+    "editor.gotoLocation.multipleDeclarations": "peek",
+    "editor.gotoLocation.multipleDefinitions": "peek"
+}
